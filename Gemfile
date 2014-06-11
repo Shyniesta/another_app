@@ -7,7 +7,7 @@ ruby '1.9.3'
 #gem 'rails', '4.0.2'
 #-org-
 gem 'rails', '4.1.1'
-
+gem 'bootstrap-sass'
 group :development, :test do
 #-tut-
 #	gem 'sqlite3', '1.3.8'
